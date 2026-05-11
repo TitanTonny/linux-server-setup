@@ -1,30 +1,30 @@
 # Linux Server Setup
 
-A simple Bash automation project for preparing Ubuntu servers for hosting and administration tasks.
+Linux sunucularını hızlı şekilde hazırlamak için geliştirdiğim otomasyon scriptleri.
 
 ---
 
-## Features
+## 🚀 Özellikler
 
-- System update & upgrade
-- Docker installation
-- Nginx installation
-- UFW firewall setup
-- Fail2Ban installation
-- Basic SSH security setup
+- Sistem güncelleme
+- Docker kurulumu
+- Nginx kurulumu
+- UFW firewall yapılandırması
+- Fail2Ban kurulumu
+- Temel güvenlik ayarları
 
 ---
 
-## Technologies
+## 🔧 Kullanılan Teknolojiler
 
-- Bash
 - Linux
+- Bash
 - Docker
 - Nginx
 
 ---
 
-## Usage
+## 📦 Kullanım
 
 ```bash
 chmod +x install.sh
@@ -33,6 +33,6 @@ chmod +x install.sh
 
 ---
 
-## Goal
+## 🎯 Amaç
 
-This project aims to automate common Linux server setup tasks for hosting and infrastructure environments.
+Bu proje, hosting ve sistem yönetimi süreçlerinde sık kullanılan temel Linux kurulum işlemlerini otomatik hale getirmek amacıyla hazırlanmıştır.
